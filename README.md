@@ -23,4 +23,4 @@
 
 <hr>
 <!-- Footer -->
-  <p align="center">Thanks for visiting my profile! 🙏</p>
+  <p align="center">ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ! 🙏</p>
