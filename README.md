@@ -1,6 +1,6 @@
   👋 Hello! I'm Demoner (he/him)
-- ⚙️ Developer  @
-- 🩷 Favorite games:  `Minecraft` and `osu!`.
+- ⚙️ Java developer
+- 🩷 Favorite games:  `Minecraft`.
 - 🔒 I am currently working on private projects.
 
 ## Skills
