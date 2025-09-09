@@ -23,4 +23,4 @@
 
 <hr>
 <!-- Footer -->
-  <p align="center">ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ! 🙏</p>
+  <p align="center">Hum </p>
