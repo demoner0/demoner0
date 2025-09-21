@@ -2,6 +2,7 @@
 - ⚙️ Java developer
 - 🩷 Favorite games:  `Minecraft`.
 - 🔒 I am currently working on private projects.
+- 🔒 Create Addon slimefun `LuciferExpansion`
 
 ## Skills
 
