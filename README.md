@@ -21,4 +21,4 @@
 
 <hr>
 <!-- Footer -->
-  <p align="center">Hum </p>
+  <p align="center"></p>
