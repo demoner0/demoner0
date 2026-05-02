@@ -25,4 +25,4 @@
 </p>
 
 <!-- Footer -->
-Thanks my visits my github
+Thanks for visiting my profile 
