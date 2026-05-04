@@ -5,6 +5,7 @@
 - 😓 I am currently working on private projects.
 - 🔒 Create Addon slimefun `LuciferExpansion`
 - 🌸 Helluva Updating
+- 🌸 `Demonic.Land` Coming Soon
 
 ## Skills
 
