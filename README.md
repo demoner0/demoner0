@@ -1,7 +1,7 @@
   👋 Hello! I'm Demoner (he/him)
 - ⚙️ Java developer
 - 💝 My Favorite Language `Java`
-- 🩷 Favorite games:  `Minecraft`.
+- 🩷 Favorite games:  `Minecraft` and `osu!`
 - 😓 I am currently working on private projects.
 - 🔒 Create Addon slimefun `LuciferExpansion`
 - 🌸 Helluva Updating
