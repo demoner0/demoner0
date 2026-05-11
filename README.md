@@ -1,5 +1,5 @@
   👋 Hello! I'm Demoner (he/him)
-- ⚙️ Java developer
+- ⚙️ Java Developer
 - 💝 My Favorite Language `Java`
 - 🩷 Favorite games:  `Minecraft` and `osu!`
 - 😓 I am currently working on private projects.
@@ -14,10 +14,8 @@
   </a>
   <a href="https://www.mysql.com" target="_blank"> 
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    
-<!-- Footer -->
+  </a>
 
+<hr>
 <!-- Footer -->
- <hr>
- 
-- Thanks for visiting my profile 🌹
+  <p align="center">Thanks for visiting my profile 🌹</p>
