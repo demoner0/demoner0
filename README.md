@@ -2,7 +2,7 @@
 - ⚙️ Java Developer
 - 💝 My Favorite Language `Java`
 - 🩷 Favorite games:  `Minecraft` and `osu!`
-- 😓 I am currently working on private projects.
+- 😓 I am currently working on private projects
 - 🔒 Create Addon slimefun `LuciferExpansion`
 - 🌸 Helluva Updating
 - 🌸 `Demonic.Land` Coming Soon
