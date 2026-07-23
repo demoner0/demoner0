@@ -9,7 +9,7 @@
 - :rainbow:  **Favorite games:** `Minecraft` and `osu!`
 - 😓 **Currently working on** private projects
 - 🔒 **Creating a Slimefun addon** `LuciferExpansion`
-- 🦋  **Private**
+- 🦋  **Private Projects**
 - 🌸 `Helluva`  updating
 - 🌸 `Demonic.Land`  coming soon
 
