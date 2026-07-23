@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Demoner <sub>(he/him)</sub></h1>
 
 <p align="center">
-   ⚙️ Java Developer &nbsp;•&nbsp;  :spider_web: Favorite Language <code>Java</code>
+   🔗 Java Developer &nbsp;•&nbsp;  🕸️ Favorite Language <code>Java</code>
 </p>
 
 <br>
@@ -9,7 +9,7 @@
 - :rainbow:  **Favorite games:** `Minecraft` and `osu!`
 - 😓 **Currently working on** private projects
 - 🔒 **Creating a Slimefun addon** `LuciferExpansion`
-- :butterfly:  **Private**
+- 🦋  **Private**
 - 🌸 `Helluva`  updating
 - 🌸 `Demonic.Land`  coming soon
 
@@ -30,4 +30,4 @@
 
 ---
 
-<p align="center">🌸 Flower! &nbsp;•&nbsp; :butterfly:  ButterFly </p>
+<p align="center">🌸 Flower! &nbsp;•&nbsp; 🦋 ButterFly </p>
