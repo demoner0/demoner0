@@ -1,6 +1,5 @@
-<h1 align="center">👋 Hello! I'm Demoner <sub>(he/him)</sub></h1>
+👋 Hello! I'm Demoner <sub>(he/him)</sub></h1>
 
-<p align="center">
    🔗 Java Developer &nbsp;•&nbsp;  🕸️ Favorite Language <code>Java</code>
 </p>
 
