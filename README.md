@@ -1,13 +1,6 @@
 <h1 align="center">👋 Hi, I'm Demoner <sub>(he/him)</sub></h1>
 
-<p align="center">
-  <picture>
-
-
-<br>
-
 ### 🦋 About Me
-
 - 🌈 **Favorite games:** `Minecraft` and `FF`
 - 😓 **Currently working on:** private projects
 - 🔒 **Creating a Slimefun addon:** `LuciferExpansion`
@@ -16,10 +9,7 @@
 - `Demonic.Land`  coming soon
 - Favorite languages `Java and Kotlin`
 
-<br>
-
 ### 🛠️ Skills
-
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
@@ -30,8 +20,14 @@
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
-<br>
-
 ---
 
-<p align="center">🌸 Flower! &nbsp;•&nbsp; 🦋
+
+<div align="center">
+
+<img src="https://lanyard-profile-readme.vercel.app/api/1145414115981021284?theme=dark&bg=0d1117&animated=true&borderRadius=12px" alt="Discord Presence"/>
+
+<br><br>
+
+</div>
+<p align="center">🌸 Flower! &nbsp;•&nbsp; 🦋</p>
