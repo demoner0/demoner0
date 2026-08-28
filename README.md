@@ -12,7 +12,7 @@
 
 - 😓 **Currently working on:** private projects
 - 🔒 **Developing a Slimefun addon:** [`LuciferExpansion`](#)
-- 🎮 **Favorite game:** Minecraft
+- 🎮 **Favorite game:** `Minecraft`
 - 🌸 **Private Projects:**
   - `Helluva` — updating
   - `Demonic.Land` — coming soon
