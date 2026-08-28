@@ -1,15 +1,26 @@
-<h1 align="center">👋 Hi, I'm Demoner <sub>(he/him)</sub></h1>
+<div align="center">
+
+# 👋 Hi, I'm Demoner <sub>(he/him)</sub>
+
+🌈 **Also Demoner?**
+
+</div>
+
+---
 
 ### 🦋 About Me
-- 🌈 **Favorite games:** `Minecraft`
-- 😓 **Currently working on:** private projects
-- 🔒 **Creating a Slimefun addon:** `LuciferExpansion`
-- 🌸 **Private Projects:**
-- `Helluva`  updating
-- `Demonic.Land`  coming soon
-- Favorite languages `Java and Kotlin`
 
-### 🛠️ Skills
+- 😓 **Currently working on:** private projects
+- 🔒 **Developing a Slimefun addon:** [`LuciferExpansion`](#)
+- 🎮 **Favorite game:** Minecraft
+- 🌸 **Private Projects:**
+  - `Helluva` — updating
+  - `Demonic.Land` — coming soon
+
+---
+
+<div align="center">
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
@@ -19,14 +30,20 @@
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://lanyard-profile-readme.vercel.app/api/1145414115981021284?theme=dark&bg=0d1537&animated=true&borderRadius=12px" alt="Discord Presence"/>
+<img src="https://lanyard-profile-readme.vercel.app/api/1145414115981021284?theme=dark&bg=0d1537&animated=true&borderRadius=12px&hideActivity=true" alt="Discord Presence"/>
+&nbsp;
 
+<br>
+
+🌸 &nbsp;•&nbsp; 🦋
 
 </div>
-
-<p align="center">🌸 Flower! &nbsp;•&nbsp; 🦋</p>
