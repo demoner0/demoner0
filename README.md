@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Demoner <sub>(he/him)</sub></h1>
 
 ### 🦋 About Me
-- 🌈 **Favorite games:** `Minecraft` and `FF`
+- 🌈 **Favorite games:** `Minecraft`
 - 😓 **Currently working on:** private projects
 - 🔒 **Creating a Slimefun addon:** `LuciferExpansion`
 - 🌸 **Private Projects:**
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://lanyard-profile-readme.vercel.app/api/1145414115981021284?theme=dark&bg=0d1117&animated=true&borderRadius=12px" alt="Discord Presence"/>
+<img src="https://lanyard-profile-readme.vercel.app/api/1145414115981021284?theme=dark&bg=0d1537&animated=true&borderRadius=12px" alt="Discord Presence"/>
 
 
 </div>
