@@ -22,12 +22,11 @@
 
 ---
 
-
 <div align="center">
 
 <img src="https://lanyard-profile-readme.vercel.app/api/1145414115981021284?theme=dark&bg=0d1117&animated=true&borderRadius=12px" alt="Discord Presence"/>
 
-<br><br>
 
 </div>
+
 <p align="center">🌸 Flower! &nbsp;•&nbsp; 🦋</p>
