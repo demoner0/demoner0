@@ -2,14 +2,7 @@
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=E10600&center=true&vCenter=true&width=435&lines=domboler">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=domboler" alt="Typing SVG">
-</picture>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/demoner-ED1C24?style=for-the-badge&logo=kotlin&logoColor=white">
-</p>
 
 <br>
 
