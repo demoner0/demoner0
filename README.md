@@ -11,11 +11,11 @@
 ### 🦋 About Me
 
 - 😓 **Currently working on:** private projects
-- 🔒 **Developing a Slimefun addon:** [`LuciferExpansion`](#)
+- 🔒 **Developing a Slimefun addon**
 - 🎮 **Favorite game:** `Minecraft`
 - 🌸 **Private Projects:**
-  - `Helluva` — updating
-  - `Demonic.Land` — coming soon
+  - `Code Line`# updating
+  - `Demonic.Land` @ DvL
 
 ---
 
